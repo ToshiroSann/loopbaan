@@ -180,3 +180,29 @@ header .navbar a:hover {
 .skillsvakgebied .row .image img {
     width:100%;
 }
+
+.werkhouding .row {
+    display: flex;
+    align-items: center;
+}
+
+.werkhouding .row .content {
+    margin-left: 20%;
+}
+
+.werkhouding .row .content h3 {
+    font-size: 3rem;
+    color: #333;
+}
+
+.werkhouding .row .content p {
+    font-size: 1.5rem;
+    color: #999;
+    padding: .5rem 0;
+    padding-top: 1rem;
+    line-height: 1.5;
+}
+
+.werkhouding .row .image img {
+    width:200%;
+}
